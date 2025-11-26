@@ -1,2 +1,2 @@
-# Comparing-Multi-Period-Binomial-and-Black-Scholes-Models-for-Vanilla-options-
-I have registered my coding work for the project to show the convergence of the Multi-period Binomial model to the Black-Scholes-Merton model, for Vanilla options, i.e. options with settlement prices only dependant on the Stock price at the delivery time. PFA my work with my team to show the mathematical reasoning behind the convergence.
+# Motivation: 
+After some condensation, the Price for a Vanilla option using the Multi period Binomial Model can be expressed as the Cox-Ross-Rubenstein Expression, that is shown below
