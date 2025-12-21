@@ -8,23 +8,23 @@ One may immediately notice the strong similarity between this expression and the
 
 <img src="images/BS_eq.png" alt="Black–Scholes equation" width="450">
 
-This work shows the convergence of the models under certain conditions, why this happens, some interesting background, applications and optimisations.
+This work shows the convergence of the models under certain conditions, why this happens, and explores some interesting background, applications, and optimisations.
 
 ---
 
 ## Project Objectives
 
 **Legend**  
-<span style="color:#2da44e;"><strong>Green </strong></span>: Joint contribution 
-<span style="color:#FA8072;"><strong>Red </strong></span>: Individual contribution
+_italic_: Joint contribution  
+**Bold**: Individual contribution
 
 My team and I structured our work around the following goals:
 
-- Introduce the core **financial instruments**, with a detailed exposition of the structure of **European vanilla options**.
-- Present the key **mathematical foundations** underlying both the **Black–Scholes model** and the **binomial model**.
-- <span style="color:#2da44e;"><strong>Derive the binomial model option price at an extremely granular level, explicitly demonstrating its convergence to the analytical Black–Scholes solution</strong></span>.
-- <span style="color:#FA8072;"><strong>Implement the Black–Scholes model in C++ and numerically demonstrate the convergence of the Cox–Ross–Rubinstein model as the number of time steps increases</strong></span>  
-  <span style="color:#FA8072;"><strong>This includes a numerical optimisation to prevent factorial values from reaching type limits</strong></span>.
-- <span style="color:#FA8072;"><strong>Identify, analyse, and present key observations arising from the numerical experiments</strong></span>.
-- Conduct a **literature review**, including a discussion of the **trinomial model**.
-- Explore **extensions to more complex instruments**, specifically **American options**.
+- Introduce the core financial instruments, with a detailed exposition of the structure of European vanilla options.
+- _Present the key mathematical foundations underlying both the Black–Scholes model and the binomial model_.
+- _Show the binomial model option price at an granular level, explicitly demonstrating its convergence to the analytical Black–Scholes solution_.
+- **Implement the Black–Scholes model in C++ and numerically demonstrate the convergence of the Cox–Ross–Rubinstein model as the number of time steps increases
+  This includes a numerical optimisation to prevent factorial values from reaching type limits.**
+- **Identify, analyse, and present key observations arising from the numerical experiments.**
+- **Conduct a literature review, including a discussion of the trinomial model.**
+- Explore extensions to more complex instruments, specifically American options.
