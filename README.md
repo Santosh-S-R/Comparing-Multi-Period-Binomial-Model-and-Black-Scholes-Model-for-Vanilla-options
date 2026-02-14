@@ -12,7 +12,7 @@ This work shows the convergence of the models under certain conditions, why this
 
 ---
 
-## Project Objectives
+## Project contribution
 
 Legend  
 **[J]** Joint contribution  
