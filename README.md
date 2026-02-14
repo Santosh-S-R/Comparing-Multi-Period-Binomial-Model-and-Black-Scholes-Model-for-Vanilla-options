@@ -12,19 +12,13 @@ This work shows the convergence of the models under certain conditions, why this
 
 ---
 
-## Project contributions
-
-Legend  
-**[J]** Joint contribution  
-**[I]** Individual contribution
-
-My team and I structured our work around the following goals:
+## Project goals
 
 - Introduce the core financial instruments, with a detailed exposition of the structure of European vanilla options.
-- **[J]** Present the key mathematical foundations underlying both the Black–Scholes model and the binomial model.
-- **[J]** Show the binomial model option price at a granular level, explicitly demonstrating its convergence to the analytical Black–Scholes solution.
-- **[I]** Implement the Black–Scholes model in C++ and numerically demonstrate the convergence of the Cox–Ross–Rubinstein model as the number of time steps increases.
+- Present the key mathematical foundations underlying both the Black–Scholes model and the binomial model.
+- Show the binomial model option price at a granular level, explicitly demonstrating its convergence to the analytical Black–Scholes solution.
+- Implement the Black–Scholes model in C++ and numerically demonstrate the convergence of the Cox–Ross–Rubinstein model as the number of time steps increases.
       This includes a numerical optimisation to prevent factorial values from reaching type limits.
-- **[I]** Identify, analyse, and present key observations arising from the numerical experiments.
-- **[I]** Conduct a literature review, including a discussion of the trinomial model.
+- Identify, analyse, and present key observations arising from the numerical experiments.
+- Conduct a literature review, including a discussion of the trinomial model.
 - Explore extensions to more complex instruments, specifically American options.
