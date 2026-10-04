@@ -1,3 +1,8 @@
+
+[![View Full Report](report-page1.png)](Report.pdf)
+
+---
+
 # Motivation
 
 After suitable condensation, the price of a vanilla option under the multi-period binomial model can be expressed using the Cox–Ross–Rubinstein (CRR) formula, shown below:
@@ -11,9 +16,7 @@ One may immediately notice the strong similarity between this expression and the
 This work shows the convergence of the models under certain conditions, why this happens, and explores some interesting background, applications, and optimisations.
 ---
 
-[![View Full Report](report-page1.png)](Report.pdf)
 
----
 
 ## Project goals
 
