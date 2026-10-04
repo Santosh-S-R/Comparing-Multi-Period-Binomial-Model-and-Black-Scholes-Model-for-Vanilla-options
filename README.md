@@ -9,6 +9,9 @@ One may immediately notice the strong similarity between this expression and the
 <img src="images/BS_eq.png" alt="Black–Scholes equation" width="450">
 
 This work shows the convergence of the models under certain conditions, why this happens, and explores some interesting background, applications, and optimisations.
+---
+
+[![View Full Report](report-page1.png)](Report.pdf)
 
 ---
 
